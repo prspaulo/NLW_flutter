@@ -11,14 +11,14 @@
                     {"title": "Estou curtindo"},
                     {"title": "Amando Flutter"},
                     {"title": "Muito top"},
-                    {"title": "Flutter é zica"}
+                    {"title": "Flutter é zica", "isRight": true}
                 ]
           },
 
           {
               "title": "Está curtindo o Flutter?",
                 "awnsers": [
-                    {"title": "Estou curtindo"},
+                    {"title": "Estou curtindo", "isRight": true},
                     {"title": "Amando Flutter"},
                     {"title": "Muito top"},
                     {"title": "Flutter é zica"}
@@ -30,7 +30,7 @@
                 "awnsers": [
                     {"title": "Estou curtindo"},
                     {"title": "Amando Flutter"},
-                    {"title": "Muito top"},
+                    {"title": "Muito top", "isRight": true},
                     {"title": "Flutter é zica"}
                 ]
           }
